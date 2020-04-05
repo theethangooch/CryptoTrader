@@ -1,7 +1,6 @@
 # CryptoTrader
 Automatically trades cryptocurrency with a coinbase pro account.
 
-#picture of what to change
 # Install
 `pip install cbpro`  
 `pip install coinbase`  
