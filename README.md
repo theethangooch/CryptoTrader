@@ -7,12 +7,13 @@ Automatically trades cryptocurrency with a coinbase pro account.
 
 # Config
 ### Edit these lines
-`name_list = ["BAT-USDC","LINK-USD","REP-USD","ATOM-USD","XTZ-USD","DASH-USD"] `  
+`currencies = ["BAT-USDC","LINK-USD","REP-USD","ATOM-USD","XTZ-USD","DASH-USD"] `  
 `lower_limit = -10  `  
 `upper_limit = 10  `  
-`key = ""  `  
-`b64secret = ""  `  
+`api_key = ""  `  
+`secret_key = ""  `  
 `passphrase = ""  `    
+`email = ""  `  
   
   ### currencies: 
   Enter currencies you would like to include.  
