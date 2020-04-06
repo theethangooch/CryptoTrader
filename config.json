@@ -1,0 +1,34 @@
+{
+
+    "currencies" : [ "LINK-USD", 
+                     "REP-USD" ,
+                     "ATOM-USD",
+                     "XTS-USD" ,
+                     "DASH-USD",
+                     "ETC-USD" ,
+                     "LTC-USD" ,
+                     "BCH-USD" ,
+                     "EOS-USD" ,
+                     "OXT-USD" ,
+                     "XLM-USD" ,
+                     "ETH-USD" ,
+                     "ZRX-USD" ,
+                     "ALGO-USD",
+                     "XRP-USD" ],
+
+
+    "lower_limit" : -10,
+    
+    "upper_limit" : 10,
+    
+    "api_key" : "",
+    
+    "secret_key" : "",
+    
+    "passphrase" : "",
+    
+    "email" : ""
+
+
+
+}
